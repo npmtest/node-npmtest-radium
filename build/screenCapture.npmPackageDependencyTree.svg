@@ -84,7 +84,7 @@
 <tspan x="10" y="1306">  │ ├── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="1322">  │ ├── slash@1.0.0 </tspan>
 <tspan x="10" y="1338">  │ ├── source-map@0.5.6 </tspan>
-<tspan x="10" y="1354">  │ └─┬ v8flags@2.0.12 </tspan>
+<tspan x="10" y="1354">  │ └─┬ v8flags@2.1.1 </tspan>
 <tspan x="10" y="1370">  │   └── user-home@1.1.1 </tspan>
 <tspan x="10" y="1386">  ├─┬ babel-core@6.24.1 </tspan>
 <tspan x="10" y="1402">  │ ├─┬ babel-code-frame@6.22.0 </tspan>
@@ -113,9 +113,9 @@
 <tspan x="10" y="1770">  │ │   └── loose-envify@1.3.1 </tspan>
 <tspan x="10" y="1786">  │ ├─┬ babel-types@6.24.1 </tspan>
 <tspan x="10" y="1802">  │ │ └── to-fast-properties@1.0.2 </tspan>
-<tspan x="10" y="1818">  │ ├── babylon@6.16.1 </tspan>
-<tspan x="10" y="1834">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1850">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1818">  │ ├── babylon@6.17.0 </tspan>
+<tspan x="10" y="1834">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1850">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1866">  │ ├── json5@0.5.1 </tspan>
 <tspan x="10" y="1882">  │ ├─┬ minimatch@3.0.3 </tspan>
 <tspan x="10" y="1898">  │ │ └─┬ brace-expansion@1.1.7 </tspan>
@@ -200,7 +200,7 @@
 <tspan x="10" y="3162">  │     │ └── babel-plugin-syntax-exponentiation-operator@6.13.0 </tspan>
 <tspan x="10" y="3178">  │     └─┬ babel-plugin-transform-object-rest-spread@6.23.0 </tspan>
 <tspan x="10" y="3194">  │       └── babel-plugin-syntax-object-rest-spread@6.13.0 </tspan>
-<tspan x="10" y="3210">  ├── exenv@1.2.1 </tspan>
+<tspan x="10" y="3210">  ├── exenv@1.2.2 </tspan>
 <tspan x="10" y="3226">  ├─┬ inline-style-prefixer@2.0.5 </tspan>
 <tspan x="10" y="3242">  │ ├── bowser@1.6.1 </tspan>
 <tspan x="10" y="3258">  │ └── hyphenate-style-name@1.0.2 </tspan>
