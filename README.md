@@ -1,6 +1,6 @@
 # npmtest-radium
 
-#### test coverage for  [radium (v0.18.2)](https://github.com/formidablelabs/radium)  [![npm package](https://img.shields.io/npm/v/npmtest-radium.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-radium) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-radium.svg)](https://travis-ci.org/npmtest/node-npmtest-radium)
+#### basic test coverage for  [radium (v0.18.2)](https://github.com/formidablelabs/radium)  [![npm package](https://img.shields.io/npm/v/npmtest-radium.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-radium) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-radium.svg)](https://travis-ci.org/npmtest/node-npmtest-radium)
 
 #### A set of tools to manage inline styles on React elements
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-radium/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-radium/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-radium/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-radium/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-radium/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-radium/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-radium/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-radium/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-radium/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-radium/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-radium/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-radium/build/coverage.html/index.html)
 
@@ -156,7 +156,8 @@
         "test-ie": "karma start karma.conf.ie.js",
         "universal": "concurrently --kill-others \"npm start\" \"npm run examples\""
     },
-    "version": "0.18.2"
+    "version": "0.18.2",
+    "bin": {}
 }
 ```
 
